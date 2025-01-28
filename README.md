@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliomeza
 - 👀 I’m interested in improving society for EVERYONE
-- 🌱 I’m currently learning analytics
+- 🌱 I’m currently exploring AI
 - 💞️ I’m looking to collaborate on new ways or organizing society
 - 📫 How to reach me ...
 
