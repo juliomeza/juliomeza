@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @juliomeza
-- 👀 I’m interested in improving society for EVERYONE
-- 🌱 I’m currently exploring AI
-- 💞️ I’m looking to collaborate on new ways or organizing society
-- 📫 How to reach me ...
+- 👋 I’m Julio, an IT Operations Manager and builder.
+- 🛠️ Building AI-powered tools for logistics, automation, and everyday problems.
+- 🌱 Exploring how technology can create opportunities and improve life for everyone.
+- 🤝 Open to collaborating on practical ideas with a positive impact.
 
 <!---
 juliomeza/juliomeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
